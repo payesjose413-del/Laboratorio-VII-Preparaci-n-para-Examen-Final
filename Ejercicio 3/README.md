@@ -8,7 +8,7 @@ API REST con Spring Boot. Los datos se mantienen en memoria y se reinician al de
 mvn spring-boot:run
 ```
 
-En Postman, incluye `X-API-KEY: mi-clave-123` en cada solicitud:
+En Postman, incluye `X-API-KEY: 080270` en cada solicitud:
 
 - `POST /api/empleados` — crea un empleado.
 - `GET /api/empleados` — lista empleados.
