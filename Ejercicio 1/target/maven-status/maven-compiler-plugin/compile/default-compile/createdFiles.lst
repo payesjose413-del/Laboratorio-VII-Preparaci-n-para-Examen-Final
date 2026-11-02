@@ -1,0 +1,10 @@
+com\ejercicio\profesores\security\ApiKeyInterceptor.class
+com\ejercicio\profesores\exception\RecursoNoEncontradoException.class
+com\ejercicio\profesores\ProfesoresApplication.class
+com\ejercicio\profesores\service\ProfesorService.class
+com\ejercicio\profesores\controller\ProfesorController.class
+com\ejercicio\profesores\security\WebConfig.class
+com\ejercicio\profesores\exception\ApiExceptionHandler.class
+com\ejercicio\profesores\repository\ProfesorRepository.class
+com\ejercicio\profesores\model\Profesor.class
+com\ejercicio\profesores\dto\CrearProfesorRequest.class

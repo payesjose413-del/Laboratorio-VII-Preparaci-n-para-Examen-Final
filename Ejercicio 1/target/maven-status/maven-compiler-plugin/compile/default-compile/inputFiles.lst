@@ -1,0 +1,10 @@
+C:\Users\Usuario\Desktop\Laboratorio VII Preparación para Examen Final\Ejercicio 1\src\main\java\com\ejercicio\profesores\controller\ProfesorController.java
+C:\Users\Usuario\Desktop\Laboratorio VII Preparación para Examen Final\Ejercicio 1\src\main\java\com\ejercicio\profesores\dto\CrearProfesorRequest.java
+C:\Users\Usuario\Desktop\Laboratorio VII Preparación para Examen Final\Ejercicio 1\src\main\java\com\ejercicio\profesores\exception\ApiExceptionHandler.java
+C:\Users\Usuario\Desktop\Laboratorio VII Preparación para Examen Final\Ejercicio 1\src\main\java\com\ejercicio\profesores\exception\RecursoNoEncontradoException.java
+C:\Users\Usuario\Desktop\Laboratorio VII Preparación para Examen Final\Ejercicio 1\src\main\java\com\ejercicio\profesores\model\Profesor.java
+C:\Users\Usuario\Desktop\Laboratorio VII Preparación para Examen Final\Ejercicio 1\src\main\java\com\ejercicio\profesores\ProfesoresApplication.java
+C:\Users\Usuario\Desktop\Laboratorio VII Preparación para Examen Final\Ejercicio 1\src\main\java\com\ejercicio\profesores\repository\ProfesorRepository.java
+C:\Users\Usuario\Desktop\Laboratorio VII Preparación para Examen Final\Ejercicio 1\src\main\java\com\ejercicio\profesores\security\ApiKeyInterceptor.java
+C:\Users\Usuario\Desktop\Laboratorio VII Preparación para Examen Final\Ejercicio 1\src\main\java\com\ejercicio\profesores\security\WebConfig.java
+C:\Users\Usuario\Desktop\Laboratorio VII Preparación para Examen Final\Ejercicio 1\src\main\java\com\ejercicio\profesores\service\ProfesorService.java
